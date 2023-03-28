@@ -4,19 +4,19 @@
       "location": "Bangalore",
       "Id" : "",
       "joinDate": "Total Company",
-      "payrate":10000"
+      "payrate":"10000"
     },
     {
       "location": "Delhi",
       "Id" : "",
       "joinDate": "Total Company",
-      "payrate":10000"
+      "payrate":"10000"
     },
     {
       "location": "Pune",
       "Id" : "",
       "joinDate": "Total Company",
-      "payrate":10000"
+      "payrate":"10000"
     }
   ]
 }
