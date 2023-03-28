@@ -1,24 +1,22 @@
 {
-  "levels": [
+  "employee": [
     {
-      "id": "1",
-      "parentId" : "",
-      "levelName": "Total Company"
+      "location": "Bangalore",
+      "Id" : "",
+      "joinDate": "Total Company",
+      "payrate":10000"
     },
     {
-      "id": "2",
-      "parentId" : "1",
-      "levelName": "Company D (100% Owned)"
+      "location": "Delhi",
+      "Id" : "",
+      "joinDate": "Total Company",
+      "payrate":10000"
+    },
+    {
+      "location": "Pune",
+      "Id" : "",
+      "joinDate": "Total Company",
+      "payrate":10000"
     }
-  ],
-  "capitalProjects": [
-    {
-      "level" : "Company D (100%)",
-      "amount" : "1000"
-    },
-    {
-      "level" : "Company C (80% owned)",
-      "amount" : "800"
-    } 
   ]
 }
